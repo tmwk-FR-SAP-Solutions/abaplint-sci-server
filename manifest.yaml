@@ -2,7 +2,7 @@
 applications:
 - name: abaplint
   random-route: true
-  memory: 512M
+  memory: 4G
   instances: 1
   buildpacks:
   - nodejs_buildpack
